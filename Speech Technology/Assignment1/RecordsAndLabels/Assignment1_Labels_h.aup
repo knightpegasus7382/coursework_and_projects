@@ -1,0 +1,106 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Assignment1_Labels_h_data" version="1.3.0" audacityversion="2.1.3" sel0="2.5415680000" sel1="2.5415680000" vpos="0" h="0.0000000000" zoom="1464.8437500000" rate="16000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="44704">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005b2.au" len="2080" min="-0.005463" max="0.014313" rms="0.002095"/>
+				</waveblock>
+				<waveblock start="2080">
+					<simpleblockfile filename="e0000c42.au" len="42624" min="-0.052612" max="0.042664" rms="0.007764"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="7" height="73" minimized="0" isSelected="0">
+		<label t="0.2243310658" t1="0.8585260771" title="Publicity"/>
+		<label t="0.8585260771" t1="0.9905895692" title="and"/>
+		<label t="0.9905895692" t1="1.6320408163" title="notoriety"/>
+		<label t="1.6813832200" t1="1.9121315193" title="go"/>
+		<label t="1.9251927438" t1="2.2226984127" title="hand"/>
+		<label t="2.2226984127" t1="2.3475056689" title="in"/>
+		<label t="2.3489569161" t1="2.7611111111" title="hand"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="13" height="73" minimized="0" isSelected="0">
+		<label t="0.2243310658" t1="0.4129931973" title="pab"/>
+		<label t="0.4129931973" t1="0.4964399093" title="li"/>
+		<label t="0.4964399093" t1="0.6568027211" title="ci"/>
+		<label t="0.7075963719" t1="0.8585260771" title="tiy"/>
+		<label t="0.8585260771" t1="0.9905895692" title="and"/>
+		<label t="0.9905895692" t1="1.1161224490" title="no"/>
+		<label t="1.1487755102" t1="1.2880952381" title="to"/>
+		<label t="1.2880952381" t1="1.4274149660" title="ri"/>
+		<label t="1.4734920635" t1="1.6320408163" title="tiy"/>
+		<label t="1.6813832200" t1="1.9121315193" title="go"/>
+		<label t="1.9251927438" t1="2.2226984127" title="hand"/>
+		<label t="2.2226984127" t1="2.3475056689" title="in"/>
+		<label t="2.3489569161" t1="2.7611111111" title="hand"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="13" height="73" minimized="0" isSelected="0">
+		<label t="0.2475510204" t1="0.2968934240" title="a"/>
+		<label t="0.4405668934" t1="0.4964399093" title="i"/>
+		<label t="0.5878684807" t1="0.6568027211" title="i"/>
+		<label t="0.7184807256" t1="0.8113605442" title="i"/>
+		<label t="0.8585260771" t1="0.9049659864" title="a"/>
+		<label t="1.0370294785" t1="1.1161224490" title="o"/>
+		<label t="1.1618367347" t1="1.2880952381" title="o"/>
+		<label t="1.3425170068" t1="1.4274149660" title="i"/>
+		<label t="1.4832879819" t1="1.5906802721" title="i"/>
+		<label t="1.7082312925" t1="1.9121315193" title="o"/>
+		<label t="1.9738095238" t1="2.0986167800" title="a"/>
+		<label t="2.2226984127" t1="2.2763945578" title="i"/>
+		<label t="2.4302267574" t1="2.5601133787" title="a"/>
+	</labeltrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="1" height="149" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="47452">
+				<waveblock start="0">
+					<simpleblockfile filename="e00000e1.au" len="47452" min="-0.088745" max="0.082123" rms="0.0088"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="7" height="73" minimized="0" isSelected="0">
+		<label t="0.2569760000" t1="0.9102880000" title="Publicity"/>
+		<label t="0.9116533333" t1="1.0393120000" title="and"/>
+		<label t="1.0399946667" t1="1.6632693333" title="notoriety"/>
+		<label t="1.7172000000" t1="1.9247306667" title="go"/>
+		<label t="1.9247306667" t1="2.2363680000" title="hand"/>
+		<label t="2.2363680000" t1="2.4053280000" title="in"/>
+		<label t="2.4053280000" t1="2.7999093333" title="hand"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="13" height="73" minimized="0" isSelected="0">
+		<label t="0.2569760000" t1="0.4699680000" title="pab"/>
+		<label t="0.4699680000" t1="0.5580320000" title="li"/>
+		<label t="0.5580320000" t1="0.7058293333" title="ci"/>
+		<label t="0.7522506667" t1="0.9099466667" title="tiy"/>
+		<label t="0.9116533333" t1="1.0393120000" title="and"/>
+		<label t="1.0399946667" t1="1.2031520000" title="no"/>
+		<label t="1.2263626667" t1="1.3680160000" title="to"/>
+		<label t="1.3680160000" t1="1.5072800000" title="ri"/>
+		<label t="1.5168373333" t1="1.6629280000" title="tiy"/>
+		<label t="1.7172000000" t1="1.9247306667" title="go"/>
+		<label t="1.9247306667" t1="2.2363680000" title="hand"/>
+		<label t="2.2363680000" t1="2.4053280000" title="in"/>
+		<label t="2.4053280000" t1="2.7999093333" title="hand"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="13" height="73" minimized="0" isSelected="1">
+		<label t="0.2917920000" t1="0.3928266667" title="a"/>
+		<label t="0.4965920000" t1="0.5580320000" title="i"/>
+		<label t="0.6426826667" t1="0.7058293333" title="i"/>
+		<label t="0.7628320000" t1="0.8809333333" title="i"/>
+		<label t="0.9116533333" t1="0.9792373333" title="a"/>
+		<label t="1.1185013333" t1="1.2031520000" title="o"/>
+		<label t="1.2482080000" t1="1.3680160000" title="o"/>
+		<label t="1.4338933333" t1="1.5072800000" title="i"/>
+		<label t="1.5315146667" t1="1.6407413333" title="i"/>
+		<label t="1.7506506667" t1="1.9247306667" title="o"/>
+		<label t="1.9889013333" t1="2.1124640000" title="a"/>
+		<label t="2.2363680000" t1="2.3015626667" title="i"/>
+		<label t="2.4688160000" t1="2.5978400000" title="a"/>
+	</labeltrack>
+</project>

@@ -1,0 +1,55 @@
+
+V1 n1 GND dc 1
+R1 n1 n2 1
+L1 n2 GND 1
+C1 n1 n3 1
+R2 n3 GND 2
+
+
+
+
+
+
+
+
+
+my test cases
+R3 n1 n2 5
+R4 n2 GND 5
+V1 n2 GND 5
+V1 GND n1 5
+V2 n2 n1 5 
+R1 n2 n3 5
+R2 n3 GND 5
+
+first test circuit
+R1 n1 n2 2
+R2 n2 GND 3
+R3 n2 n3 5
+RL n3 GND 10
+V1 n1 GND dc 10
+
+first ac test
+V1 n1 GND ac 1 0
+L1 n1 GND 1
+
+second ac test
+V1 n1 GND ac 5 0
+C1 n1 n2 1
+R1 n2 n3 1
+L1 n3 GND 1
+
+third ac test
+.circuit
+V1 n1 GND ac 10 0
+R1 n1 n2 4500
+L1 n2 n3 80.96e-6
+L2 n3 n4 80.96e-6
+C1 n3 GND 2.485e-12
+R2 n4 GND 4000
+.end
+.ac V1 1e+6
+
+
+
+

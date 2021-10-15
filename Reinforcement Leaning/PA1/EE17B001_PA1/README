@@ -1,0 +1,7 @@
+PROGRAMMING ASSIGNMENT 1: MULTI-ARMED BANDITS
+*********************************************
+
+- The Code folder contains individually executable segments of code to answer various parts of the assignment.
+- It also contains a Jupyter notebook containing all the code.
+- The file "medianelimmulti.py" is to run median elimination for different values of epsilon and delta on 10 arms.
+- The report contains the plots and the inferences for the assignment.

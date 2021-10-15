@@ -1,0 +1,6 @@
+setup.py
+visham_C.egg-info/PKG-INFO
+visham_C.egg-info/SOURCES.txt
+visham_C.egg-info/dependency_links.txt
+visham_C.egg-info/requires.txt
+visham_C.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+CS6700 Programming Assignment 2
+Akash Reddy A: EE17B001
+
+*README*
+
+*For Q1:*
+	- Please run 'pip install -e .' after opening a terminal within the Q1 folder in order to install the puddle-world environment before running the code.
+	- The sarsalambda.py file has the sarsa(lambda) function call for all values of lambda contained in the 'main' function. They can be commented and uncommented as necessary.
+*For Q2:*
+	- Please run 'pip install -e chakra' after opening a terminal within the Q2/rlpa2 folder in order to install the chakra environment before running the code.
+	- Please run 'pip install -e vishamC' after opening a terminal within the Q2/rlpa2 folder in order to install the chakra environment before running the code.
+	- The structure/filepaths of the environments has been slightly modified from what has been given in the question. For example, rlpa2.chakra is not where the chakra environment is sourced from, within the __init__.py file. It is sourced from chakra.envs instead, and so on.

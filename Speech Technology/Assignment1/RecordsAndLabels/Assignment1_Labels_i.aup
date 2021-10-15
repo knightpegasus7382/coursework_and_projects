@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Assignment1_Labels_i_data" version="1.3.0" audacityversion="2.1.3" sel0="2.6848072562" sel1="2.7885714286" vpos="0" h="0.0000000000" zoom="1378.1250000000" rate="16000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="60229">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c68.au" len="2080" min="-0.000671" max="0.000549" rms="0.000198"/>
+				</waveblock>
+				<waveblock start="2080">
+					<simpleblockfile filename="e0000d5b.au" len="58149" min="-0.036194" max="0.038879" rms="0.006505"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="6" height="73" minimized="0" isSelected="0">
+		<label t="0.3128571429" t1="0.9281859410" title="Aluminum"/>
+		<label t="0.9281859410" t1="1.6451020408" title="silverware"/>
+		<label t="1.7307256236" t1="1.8773015873" title="can"/>
+		<label t="1.8773015873" t1="2.3721768707" title="often"/>
+		<label t="2.4012018141" t1="2.5535827664" title="be"/>
+		<label t="2.5593877551" t1="3.0948979592" title="flimsy"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="13" height="73" minimized="0" isSelected="0">
+		<label t="0.3128571429" t1="0.4187981859" title="a"/>
+		<label t="0.4187981859" t1="0.6103628118" title="lu"/>
+		<label t="0.6132653061" t1="0.7322675737" title="mi"/>
+		<label t="0.7322675737" t1="0.9281859410" title="num"/>
+		<label t="0.9281859410" t1="1.1981179138" title="sil"/>
+		<label t="1.2242403628" t1="1.4230612245" title="ver"/>
+		<label t="1.4230612245" t1="1.6451020408" title="wer"/>
+		<label t="1.7307256236" t1="1.8773015873" title="can"/>
+		<label t="1.8773015873" t1="2.1602947846" title="of"/>
+		<label t="2.1602947846" t1="2.3634693878" title="ten"/>
+		<label t="2.4012018141" t1="2.5535827664" title="be"/>
+		<label t="2.5593877551" t1="2.8714058957" title="flim"/>
+		<label t="2.8714058957" t1="3.0948979592" title="sy"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="13" height="73" minimized="0" isSelected="0">
+		<label t="0.3128571429" t1="0.4187981859" title="a"/>
+		<label t="0.5000680272" t1="0.6103628118" title="u"/>
+		<label t="0.6669614512" t1="0.7322675737" title="i"/>
+		<label t="0.7801587302" t1="0.8527210884" title="a"/>
+		<label t="1.0558956916" t1="1.1153968254" title="i"/>
+		<label t="1.2808390023" t1="1.3621088435" title="e"/>
+		<label t="1.5115873016" t1="1.6102721088" title="e"/>
+		<label t="1.7626530612" t1="1.8134467120" title="a"/>
+		<label t="1.8773015873" t1="1.9948526077" title="o"/>
+		<label t="2.2038321995" t1="2.2546258503" title="e"/>
+		<label t="2.4447392290" t1="2.5535827664" title="i"/>
+		<label t="2.7045124717" t1="2.7509523810" title="i"/>
+		<label t="2.9497732426" t1="3.0586167800" title="i"/>
+	</labeltrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="1" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="57349">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c82.au" len="57349" min="-0.043488" max="0.036682" rms="0.007598"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="6" height="73" minimized="0" isSelected="0">
+		<label t="0.1872108844" t1="0.7336054422" title="Aluminum"/>
+		<label t="0.7336054422" t1="1.4309297052" title="silverware"/>
+		<label t="1.5136507937" t1="1.6819954649" title="can"/>
+		<label t="1.7269841270" t1="2.1188208617" title="often"/>
+		<label t="2.1601814059" t1="2.2828117914" title="be"/>
+		<label t="2.3256235828" t1="2.8197732426" title="flimsy"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="13" height="73" minimized="0" isSelected="1">
+		<label t="0.1872108844" t1="0.2742857143" title="a"/>
+		<label t="0.2742857143" t1="0.4440816327" title="lu"/>
+		<label t="0.4455328798" t1="0.5601814059" title="mi"/>
+		<label t="0.5601814059" t1="0.7343310658" title="num"/>
+		<label t="0.7336054422" t1="0.9999092971" title="sil"/>
+		<label t="1.0216780045" t1="1.2132426304" title="ver"/>
+		<label t="1.2132426304" t1="1.4309297052" title="wer"/>
+		<label t="1.5136507937" t1="1.6819954649" title="can"/>
+		<label t="1.7269841270" t1="1.9127437642" title="of"/>
+		<label t="1.9127437642" t1="2.1173696145" title="ten"/>
+		<label t="2.1601814059" t1="2.2828117914" title="be"/>
+		<label t="2.3256235828" t1="2.5991836735" title="flim"/>
+		<label t="2.6020861678" t1="2.8197732426" title="sy"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="13" height="73" minimized="0" isSelected="1">
+		<label t="0.1872108844" t1="0.2742857143" title="a"/>
+		<label t="0.3432199546" t1="0.4440816327" title="u"/>
+		<label t="0.5122902494" t1="0.5601814059" title="i"/>
+		<label t="0.6044444444" t1="0.6363718821" title="a"/>
+		<label t="0.8576870748" t1="0.9063038549" title="i"/>
+		<label t="1.0681179138" t1="1.1501133787" title="e"/>
+		<label t="1.2974149660" t1="1.3859410431" title="e"/>
+		<label t="1.5463038549" t1="1.5898412698" title="a"/>
+		<label t="1.7269841270" t1="1.8365532880" title="o"/>
+		<label t="1.9736961451" t1="2.0259410431" title="e"/>
+		<label t="2.1841269841" t1="2.2828117914" title="i"/>
+		<label t="2.4685714286" t1="2.4968707483" title="i"/>
+		<label t="2.6848072562" t1="2.7885714286" title="i"/>
+	</labeltrack>
+</project>

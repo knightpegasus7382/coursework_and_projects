@@ -1,0 +1,73 @@
+
+Using predefined model...
+
+max sequence length = 73
+number of strings = 60
+
+Strings of different lengths
+
+test on strings...
+alpha for string[0] = -104.919  len= 40
+alpha for string[1] = -178.215  len= 46
+alpha for string[2] = -93.109  len= 32
+alpha for string[3] = -100.73  len= 36
+alpha for string[4] = -99.0844  len= 41
+alpha for string[5] = -62.8325  len= 25
+alpha for string[6] = -135.131  len= 41
+alpha for string[7] = -154.57  len= 35
+alpha for string[8] = -130.247  len= 42
+alpha for string[9] = -110.169  len= 35
+alpha for string[10] = -170.516  len= 50
+alpha for string[11] = -147.564  len= 56
+alpha for string[12] = -288.393  len= 41
+alpha for string[13] = -414.228  len= 55
+alpha for string[14] = -186.82  len= 28
+alpha for string[15] = -252.92  len= 41
+alpha for string[16] = -282.861  len= 34
+alpha for string[17] = -178.724  len= 29
+alpha for string[18] = -294.386  len= 47
+alpha for string[19] = -284.544  len= 37
+alpha for string[20] = -269.272  len= 40
+alpha for string[21] = -294.904  len= 33
+alpha for string[22] = -344.965  len= 42
+alpha for string[23] = -487.345  len= 61
+alpha for string[24] = -445.257  len= 50
+alpha for string[25] = -293.223  len= 41
+alpha for string[26] = -258.574  len= 32
+alpha for string[27] = -403.674  len= 44
+alpha for string[28] = -373.724  len= 41
+alpha for string[29] = -198.186  len= 24
+alpha for string[30] = -313.32  len= 37
+alpha for string[31] = -320.223  len= 35
+alpha for string[32] = -347.925  len= 53
+alpha for string[33] = -290.013  len= 31
+alpha for string[34] = -339.765  len= 47
+alpha for string[35] = -443.498  len= 57
+alpha for string[36] = -276.521  len= 40
+alpha for string[37] = -373.541  len= 52
+alpha for string[38] = -288.431  len= 34
+alpha for string[39] = -369.571  len= 44
+alpha for string[40] = -399.984  len= 46
+alpha for string[41] = -167.93  len= 24
+alpha for string[42] = -337.639  len= 39
+alpha for string[43] = -315.694  len= 36
+alpha for string[44] = -434.407  len= 47
+alpha for string[45] = -257.244  len= 34
+alpha for string[46] = -365.445  len= 44
+alpha for string[47] = -500.165  len= 58
+alpha for string[48] = -539.729  len= 73
+alpha for string[49] = -530.412  len= 73
+alpha for string[50] = -389.185  len= 48
+alpha for string[51] = -397.635  len= 54
+alpha for string[52] = -556.337  len= 64
+alpha for string[53] = -246.074  len= 36
+alpha for string[54] = -378.119  len= 58
+alpha for string[55] = -444.275  len= 55
+alpha for string[56] = -441.25  len= 62
+alpha for string[57] = -349.071  len= 53
+alpha for string[58] = -404.218  len= 67
+alpha for string[59] = -488.892  len= 68
+------------ 
+batch alpha = -18345.6
+
+Done testing model ontest_all.hmm.seq...

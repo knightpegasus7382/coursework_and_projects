@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Assignment1_Labels_j_data" version="1.3.0" audacityversion="2.1.3" sel0="0.2430839002" sel1="0.2430839002" vpos="0" h="0.0000000000" zoom="344.5312500000" rate="16000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="1" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="38004">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001f6.au" len="2080" min="-0.000153" max="0.000061" rms="0.000047"/>
+				</waveblock>
+				<waveblock start="2080">
+					<simpleblockfile filename="e00007f0.au" len="35924" min="-0.057983" max="0.054291" rms="0.008879"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="5" height="73" minimized="0" isSelected="0">
+		<label t="0.1895011338" t1="0.4028344671" title="This"/>
+		<label t="0.4028344671" t1="0.5755328798" title="is"/>
+		<label t="0.5755328798" t1="0.8338548753" title="our"/>
+		<label t="0.8411111111" t1="1.4724036281" title="singular"/>
+		<label t="1.4796598639" t1="1.7960317460" title="goal"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="8" height="73" minimized="0" isSelected="0">
+		<label t="0.1895011338" t1="0.4028344671" title="this"/>
+		<label t="0.4028344671" t1="0.5755328798" title="is"/>
+		<label t="0.5755328798" t1="0.7721768707" title="ao"/>
+		<label t="0.7721768707" t1="0.8338548753" title="er"/>
+		<label t="0.8411111111" t1="1.1139455782" title="sin"/>
+		<label t="1.1139455782" t1="1.2438321995" title="gu"/>
+		<label t="1.2445578231" t1="1.4724036281" title="lar"/>
+		<label t="1.4796598639" t1="1.7960317460" title="gol"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="8" height="73" minimized="0" isSelected="1">
+		<label t="0.2025623583" t1="0.2997959184" title="i"/>
+		<label t="0.4028344671" t1="0.4674149660" title="i"/>
+		<label t="0.5755328798" t1="0.7721768707" title="ao"/>
+		<label t="0.7721768707" t1="0.8193424036" title="e"/>
+		<label t="0.9782539683" t1="1.0181632653" title="i"/>
+		<label t="1.1444217687" t1="1.2438321995" title="u"/>
+		<label t="1.3142176871" t1="1.3817006803" title="a"/>
+		<label t="1.5406122449" t1="1.6763038549" title="o"/>
+	</labeltrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="38727">
+				<waveblock start="0">
+					<simpleblockfile filename="e000094e.au" len="2080" min="-0.002899" max="0.002594" rms="0.001114"/>
+				</waveblock>
+				<waveblock start="2080">
+					<simpleblockfile filename="e0000057.au" len="36647" min="-0.090271" max="0.070587" rms="0.010112"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="5" height="73" minimized="0" isSelected="0">
+		<label t="0.1855102041" t1="0.3846938776" title="This"/>
+		<label t="0.3854195011" t1="0.5283673469" title="is"/>
+		<label t="0.5290929705" t1="0.7837868481" title="our"/>
+		<label t="0.7917687075" t1="1.3555782313" title="singular"/>
+		<label t="1.4078231293" t1="1.7111337868" title="goal"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="8" height="73" minimized="0" isSelected="0">
+		<label t="0.1855102041" t1="0.3846938776" title="this"/>
+		<label t="0.3854195011" t1="0.5283673469" title="is"/>
+		<label t="0.5290929705" t1="0.7141269841" title="ao"/>
+		<label t="0.7141269841" t1="0.7837868481" title="er"/>
+		<label t="0.7917687075" t1="1.0319501134" title="sin"/>
+		<label t="1.0319501134" t1="1.1487755102" title="gu"/>
+		<label t="1.1495011338" t1="1.3555782313" title="lar"/>
+		<label t="1.4078231293" t1="1.7111337868" title="gol"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="8" height="73" minimized="0" isSelected="0">
+		<label t="0.2148979592" t1="0.2939909297" title="i"/>
+		<label t="0.3854195011" t1="0.4282312925" title="i"/>
+		<label t="0.5290929705" t1="0.7141269841" title="ao"/>
+		<label t="0.7141269841" t1="0.7583900227" title="e"/>
+		<label t="0.9209297052" t1="0.9862358277" title="i"/>
+		<label t="1.0834693878" t1="1.1487755102" title="u"/>
+		<label t="1.2155328798" t1="1.2895464853" title="a"/>
+		<label t="1.4419274376" t1="1.5797959184" title="o"/>
+	</labeltrack>
+</project>

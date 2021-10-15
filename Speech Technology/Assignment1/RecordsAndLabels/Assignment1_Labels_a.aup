@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Assignment1_Labels_a_data" version="1.3.0" audacityversion="2.1.3" sel0="0.1115123745" sel1="0.1115123745" vpos="0" h="0.0000000000" zoom="1372.0450367647" rate="16000.0" snapto="off" selectionformat="samples" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="s_a1" channel="2" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="174080">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b0e.au" len="174080" min="-0.343048" max="0.265564" rms="0.038332"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="2.355209984263" val="0.950704216957"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="s_a1words" numlabels="11" height="73" minimized="0" isSelected="0">
+		<label t="0.3215052110" t1="0.7501121119" title="She"/>
+		<label t="0.7501121119" t1="0.9780945060" title="had"/>
+		<label t="0.9781066615" t1="1.2303950221" title="your"/>
+		<label t="1.2308404441" t1="1.4885268696" title="dark"/>
+		<label t="1.4885268696" t1="1.7810085267" title="suit"/>
+		<label t="1.8425305305" t1="2.0260879843" title="in"/>
+		<label t="2.0442420181" t1="2.4075144287" title="greasy"/>
+		<label t="2.4076034444" t1="2.6824863169" title="wash"/>
+		<label t="2.7278793704" t1="3.0977186811" title="water"/>
+		<label t="3.0982591536" t1="3.2952925394" title="all"/>
+		<label t="3.2952925394" t1="3.5746344072" title="year"/>
+	</labeltrack>
+	<labeltrack name="s_a1syllables" numlabels="13" height="73" minimized="0" isSelected="0">
+		<label t="0.3215052110" t1="0.7501121119" title="She"/>
+		<label t="0.7501121119" t1="0.9780945060" title="had"/>
+		<label t="0.9781066615" t1="1.2303950221" title="your"/>
+		<label t="1.2308404441" t1="1.4885268696" title="dark"/>
+		<label t="1.4885268696" t1="1.7810085267" title="suit"/>
+		<label t="1.8425305305" t1="2.0260879843" title="in"/>
+		<label t="2.0442420181" t1="2.2138831121" title="gri"/>
+		<label t="2.2135828165" t1="2.4077576258" title="siy"/>
+		<label t="2.4076034444" t1="2.6824863169" title="wash"/>
+		<label t="2.7278793704" t1="2.8691199330" title="wa"/>
+		<label t="2.8986522234" t1="3.0971782085" title="ter"/>
+		<label t="3.0977186811" t1="3.2952925394" title="all"/>
+		<label t="3.2952925394" t1="3.5746344072" title="year"/>
+	</labeltrack>
+	<labeltrack name="s_a1vowels" numlabels="14" height="73" minimized="0" isSelected="0">
+		<label t="0.5084165177" t1="0.7492270290" title="e"/>
+		<label t="0.7893862621" t1="0.9316068285" title="a"/>
+		<label t="1.0496128150" t1="1.1400853086" title="ou"/>
+		<label t="1.2454456809" t1="1.4183741181" title="a"/>
+		<label t="1.5832860052" t1="1.7321647922" title="u"/>
+		<label t="1.8489773789" t1="1.9154002223" title="i"/>
+		<label t="2.1341375171" t1="2.2143030177" title="i"/>
+		<label t="2.2898876327" t1="2.4067002194" title="i"/>
+		<label t="2.4708326199" t1="2.5842095423" title="a"/>
+		<label t="2.7754615225" t1="2.8670792376" title="a"/>
+		<label t="2.9266307524" t1="3.0228293532" title="e"/>
+		<label t="3.0971942939" t1="3.2090721115" title="a"/>
+		<label t="3.3301379625" t1="3.3771590743" title="e"/>
+		<label t="3.3766186017" t1="3.4814702762" title="a"/>
+	</labeltrack>
+	<wavetrack name="s_a2" channel="2" linked="0" mute="0" solo="1" height="165" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="163840">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d7e.au" len="163840" min="-0.498871" max="0.438324" rms="0.040836"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="s_a2words" numlabels="11" height="73" minimized="0" isSelected="0">
+		<label t="0.1844599070" t1="0.4921734960" title="She"/>
+		<label t="0.4947593245" t1="0.7507563439" title="had"/>
+		<label t="0.7559280008" t1="0.9524509652" title="your"/>
+		<label t="1.0196825057" t1="1.2782653536" title="dark"/>
+		<label t="1.2808511821" t1="1.5963222565" title="suit"/>
+		<label t="1.6402813406" t1="1.7928452209" title="in"/>
+		<label t="1.8109460203" t1="2.2117494345" title="greasy"/>
+		<label t="2.2117494345" t1="2.4866323070" title="wash"/>
+		<label t="2.4884330817" t1="2.8142474701" title="water"/>
+		<label t="2.8194191270" t1="2.9900838067" title="all"/>
+		<label t="3.0004271206" t1="3.3365848228" title="year"/>
+	</labeltrack>
+	<labeltrack name="s_a2syllables" numlabels="13" height="73" minimized="0" isSelected="0">
+		<label t="0.1844599070" t1="0.4921734960" title="She"/>
+		<label t="0.4947593245" t1="0.7507563439" title="had"/>
+		<label t="0.7559280008" t1="0.9524509652" title="your"/>
+		<label t="1.0196825057" t1="1.2782653536" title="dark"/>
+		<label t="1.2808511821" t1="1.5963222565" title="suit"/>
+		<label t="1.6402813406" t1="1.7928452209" title="in"/>
+		<label t="1.8109460203" t1="2.0100548131" title="gri"/>
+		<label t="2.0100548131" t1="2.2117494345" title="siy"/>
+		<label t="2.2117494345" t1="2.4866323070" title="wash"/>
+		<label t="2.4884330817" t1="2.6487544474" title="wa"/>
+		<label t="2.6823702177" t1="2.8142474701" title="ter"/>
+		<label t="2.8194191270" t1="2.9900838067" title="all"/>
+		<label t="3.0004271206" t1="3.3365848228" title="year"/>
+	</labeltrack>
+	<labeltrack name="s_a2vowels" numlabels="14" height="73" minimized="0" isSelected="0">
+		<label t="0.3163371594" t1="0.4921734960" title="e"/>
+		<label t="0.5387184086" t1="0.6912822889" title="a"/>
+		<label t="0.8335028552" t1="0.9110777096" title="ou"/>
+		<label t="1.0377833050" t1="1.2032763277" title="a"/>
+		<label t="1.3842843212" t1="1.5265048876" title="u"/>
+		<label t="1.6402813406" t1="1.6868262533" title="i"/>
+		<label t="1.9040358455" t1="2.0100548131" title="i"/>
+		<label t="2.0928013245" t1="2.2117494345" title="i"/>
+		<label t="2.2893242889" t1="2.3798282856" title="a"/>
+		<label t="2.5453213083" t1="2.6487544474" title="a"/>
+		<label t="2.7056426740" t1="2.7573592436" title="e"/>
+		<label t="2.8194191270" t1="2.9512963795" title="a"/>
+		<label t="3.0340428908" t1="3.1323043730" title="e"/>
+		<label t="3.1348902015" t1="3.2434949976" title="a"/>
+	</labeltrack>
+</project>

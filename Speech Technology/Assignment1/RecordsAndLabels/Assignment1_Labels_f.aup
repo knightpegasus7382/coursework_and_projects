@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Assignment1_Labels_f_data" version="1.3.0" audacityversion="2.1.3" sel0="0.0000000000" sel1="2.7205000000" vpos="112" h="0.0000000000" zoom="689.0625000000" rate="16000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="43365">
+				<waveblock start="0">
+					<simpleblockfile filename="e000092d.au" len="43365" min="-0.115662" max="0.143341" rms="0.011632"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="7" height="73" minimized="0" isSelected="0">
+		<label t="0.3056009070" t1="0.7612925170" title="Birthday"/>
+		<label t="0.8222448980" t1="1.2460090703" title="parties"/>
+		<label t="1.2460090703" t1="1.3911337868" title="have"/>
+		<label t="1.5101360544" t1="1.9716326531" title="cupcakes"/>
+		<label t="1.9716326531" t1="2.0717687075" title="and"/>
+		<label t="2.0717687075" t1="2.2749433107" title="ice"/>
+		<label t="2.3213832200" t1="2.5419727891" title="cream"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="10" height="73" minimized="0" isSelected="0">
+		<label t="0.3056009070" t1="0.6161678005" title="berth"/>
+		<label t="0.6161678005" t1="0.7612925170" title="day"/>
+		<label t="0.8222448980" t1="1.0457369615" title="par"/>
+		<label t="1.0457369615" t1="1.2460090703" title="ties"/>
+		<label t="1.2460090703" t1="1.3911337868" title="hav"/>
+		<label t="1.5101360544" t1="1.7321768707" title="cup"/>
+		<label t="1.7321768707" t1="1.9716326531" title="keks"/>
+		<label t="1.9716326531" t1="2.0717687075" title="and"/>
+		<label t="2.0717687075" t1="2.2749433107" title="ais"/>
+		<label t="2.3213832200" t1="2.5419727891" title="crim"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="10" height="73" minimized="0" isSelected="0">
+		<label t="0.3433333333" t1="0.4616099773" title="e"/>
+		<label t="0.6488208617" t1="0.7453287982" title="e"/>
+		<label t="0.8556235828" t1="0.9862358277" title="a"/>
+		<label t="1.0609750567" t1="1.1944897959" title="i"/>
+		<label t="1.3280045351" t1="1.3729931973" title="a"/>
+		<label t="1.5326303855" t1="1.6153514739" title="a"/>
+		<label t="1.7553968254" t1="1.8301360544" title="e"/>
+		<label t="1.9716326531" t1="2.0006575964" title="a"/>
+		<label t="2.0717687075" t1="2.1965759637" title="ai"/>
+		<label t="2.3982993197" t1="2.5085941043" title="i"/>
+	</labeltrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="43528">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000038.au" len="43528" min="-0.095154" max="0.08075" rms="0.008671"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="7" height="73" minimized="0" isSelected="0">
+		<label t="0.3230158730" t1="0.7787074830" title="Birthday"/>
+		<label t="0.8186167800" t1="1.2423809524" title="parties"/>
+		<label t="1.2641496599" t1="1.4295918367" title="have"/>
+		<label t="1.5210204082" t1="1.9952154195" title="cupcakes"/>
+		<label t="1.9952154195" t1="2.1124036281" title="and"/>
+		<label t="2.1124036281" t1="2.3155782313" title="ice"/>
+		<label t="2.3663718821" t1="2.5869614512" title="cream"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="10" height="73" minimized="0" isSelected="0">
+		<label t="0.3230158730" t1="0.6060090703" title="berth"/>
+		<label t="0.6060090703" t1="0.7787074830" title="day"/>
+		<label t="0.8186167800" t1="1.0363038549" title="par"/>
+		<label t="1.0363038549" t1="1.2423809524" title="ties"/>
+		<label t="1.2641496599" t1="1.4295918367" title="have"/>
+		<label t="1.5210204082" t1="1.7561224490" title="cup"/>
+		<label t="1.7561224490" t1="1.9952154195" title="keks"/>
+		<label t="1.9952154195" t1="2.1124036281" title="and"/>
+		<label t="2.1124036281" t1="2.3155782313" title="ais"/>
+		<label t="2.3663718821" t1="2.5869614512" title="crim"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="10" height="73" minimized="0" isSelected="0">
+		<label t="0.3698185941" t1="0.4851927438" title="e"/>
+		<label t="0.6509977324" t1="0.7649206349" title="e"/>
+		<label t="0.8382086168" t1="0.9789795918" title="a"/>
+		<label t="1.0464625850" t1="1.1828798186" title="i"/>
+		<label t="1.3091383220" t1="1.3831519274" title="a"/>
+		<label t="1.5391609977" t1="1.6139002268" title="a"/>
+		<label t="1.7764399093" t1="1.8685941043" title="e"/>
+		<label t="1.9952154195" t1="2.0456462585" title="a"/>
+		<label t="2.1124036281" t1="2.2546258503" title="ai"/>
+		<label t="2.4636054422" t1="2.5477777778" title="i"/>
+	</labeltrack>
+</project>
